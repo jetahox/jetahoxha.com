@@ -904,11 +904,6 @@ video {
   color: rgb(107 33 168 / var(--tw-text-opacity, 1));
 }
 
-.hover\:text-red-800:hover {
-  --tw-text-opacity: 1;
-  color: rgb(153 27 27 / var(--tw-text-opacity, 1));
-}
-
 @media (min-width: 640px) {
   .sm\:mx-10 {
     margin-left: 2.5rem;
